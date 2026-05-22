@@ -24,7 +24,6 @@ Open:
 http://127.0.0.1:8000
 ```
 
-The app creates `data/sample_sales.csv` automatically the first time it runs.
 
 ## How It Works
 
